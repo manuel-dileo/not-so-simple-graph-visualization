@@ -20,10 +20,26 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 - Graph Sketches
 
 # References
-@article{Wang\_2009, title={Understanding the Spreading Patterns of
-Mobile Phone Viruses}, volume={324}, ISSN={1095-9203},
-url={http://dx.doi.org/10.1126/science.1167053},
-DOI={10.1126/science.1167053}, number={5930}, journal={Science},
-publisher={American Association for the Advancement of Science (AAAS)},
-author={Wang, P. and Gonzalez, M. C. and Hidalgo, C. A. and Barabasi,
-A.-L.}, year={2009}, month={Apr}, pages={1071–1076} }
+Wang, Pu & Gonzalez, Marta C. & Hidalgo, Cesar & Barabasi, Albert-Laszlo. (2009). Understanding the Spreading Patterns of Mobile Phone Viruses. Science (New York, N.Y.). 324. 1071-6. 10.1126/science.1167053. 
+
+
+Schulz, Christian. (2018). Visualizing spreading phenomena on complex networks. 
+
+
+Barabasi, Albert-Laszlo. Network Science.
+
+Shen, Zeqian & Ma, Kwan-Liu & Eliassi-Rad, Tina. (2006). Visual Analysis of Large Heterogeneous Social Networks by Semantic and Structural Abstraction. IEEE transactions on visualization and computer graphics. 12. 1427-39. 10.1109/TVCG.2006.107. 
+
+Vicknair, Chad & Macias, Michael & Zhao, Zhendong & Nan, Xiaofei & Chen, Yixin & Wilkins, Dawn. (2010). A comparison of a graph database and a relational database: A data provenance perspective. The 48th ACM Southeast Conference. 10. 42. 10.1145/1900008.1900067.
+
+Vukotic, Aleksa & Watt, Nicki & Abedrabbo, Tareq & Fox, Dominic & Partner, Jonas. (2014). Neo4j in Action. 
+
+Abello, James & Finocchi, Irene & Korn, Jeffrey. (2003). Graph Sketches. 10.1109/INFVIS.2001.963282. 
+
+Abello, James & Korn, J.. (2002). MGV: A system for visualizing massive multidigraphs. Visualization and Computer Graphics, IEEE Transactions on. 8. 21-38. 10.1109/2945.981849. 
+
+
+
+
+
+
