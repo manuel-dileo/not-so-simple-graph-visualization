@@ -15,6 +15,7 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 - Astrazione strutturale
 - Astrazione semantica
 - Astrazione basata su clustering
+- Astrazione di vista
 - Astrazione di cammino
 - Astrazione fish-eye
 - Graph Sketches
