@@ -32,13 +32,16 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 
 
 # References
+[Aric A. Hagberg, Daniel A. Schult and Pieter J. Swart, “Exploring network structure, dynamics, and function using NetworkX”, in Proceedings of the 7th Python in Science Conference (SciPy2008), Gäel Varoquaux, Travis Vaught, and Jarrod Millman (Eds), (Pasadena, CA USA), pp. 11–15, Aug 2008](https://networkx.org/documentation/latest/index.html)
+
+
 [Wang, Pu & Gonzalez, Marta C. & Hidalgo, Cesar & Barabasi, Albert-Laszlo. (2009). Understanding the Spreading Patterns of Mobile Phone Viruses. Science (New York, N.Y.). 324. 1071-6. 10.1126/science.1167053.](https://arxiv.org/abs/0906.4567)
 
 
 [Schulz, Christian. (2018). Visualizing spreading phenomena on complex networks.](https://arxiv.org/abs/1807.01390) 
 
 
-[Barabasi, Albert-Laszlo. Network Science.](http://networksciencebook.com/chapter/10)
+[Barabási, A.-L., Pósfai, M. (2016). Network science. Cambridge: Cambridge University Press. ISBN: 9781107076266 1107076269](http://networksciencebook.com/chapter/10)
 
 [Shen, Zeqian & Ma, Kwan-Liu & Eliassi-Rad, Tina. (2006). Visual Analysis of Large Heterogeneous Social Networks by Semantic and Structural Abstraction. IEEE transactions on visualization and computer graphics. 12. 1427-39. 10.1109/TVCG.2006.107.](https://www.stat.berkeley.edu/~aldous/157/Papers/ontovis_tvcg.pdf) 
 
