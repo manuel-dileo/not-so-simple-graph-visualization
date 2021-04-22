@@ -20,6 +20,16 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 - Astrazione fish-eye
 - Graph Sketches
 
+## Grafi Bipartiti
+[Filippo Uslenghi](https://github.com/FilippoUslenghi)
+
+- Definizione di grafo bipartito
+- Reti di affiliazione e modellazione delle reti di affiliazione tramite grafi bipartiti
+- Proiezione di una rete bipartita e un caso di studio: The Human Disease Network
+- Visualizzazione di un piccolo grafo bipartito con Networkx
+- Visualizzazione della Human Disease Network con librerie avanzate
+
+
 # References
 [Wang, Pu & Gonzalez, Marta C. & Hidalgo, Cesar & Barabasi, Albert-Laszlo. (2009). Understanding the Spreading Patterns of Mobile Phone Viruses. Science (New York, N.Y.). 324. 1071-6. 10.1126/science.1167053.](https://arxiv.org/abs/0906.4567)
 
@@ -39,7 +49,9 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 
 [Abello, James & Korn, J.. (2002). MGV: A system for visualizing massive multidigraphs. Visualization and Computer Graphics, IEEE Transactions on. 8. 21-38. 10.1109/2945.981849.](https://www.researchgate.net/profile/James-Abello-2/publication/3410947_MGV_A_system_for_visualizing_massive_multidigraphs/links/0deec529f627a79bcc000000/MGV-A-system-for-visualizing-massive-multidigraphs.pdf) 
 
+[Goh, K & Cusick, Michael & Valle, David & Childs, Barton & Vidal, Marc & Barabasi, Albert-Laszlo. (2007). The human disease network. Proceedings of the National Academy of Sciences of the United States of America. 104. 8685-90. 10.1073/pnas.0701361104. ](https://www.researchgate.net/publication/6328939_The_human_disease_network)
 
+[Krzywinski, Martin & Birol, Inanc & Jones, Steven & Marra, Marco. (2011). Hive plots—Rational approach to visualizing networks. Briefings in bioinformatics. 13. 627-44. 10.1093/bib/bbr069.](https://www.researchgate.net/publication/51865841_Hive_plots-Rational_approach_to_visualizing_networks)
 
 
 
