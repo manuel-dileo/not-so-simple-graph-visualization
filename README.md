@@ -12,6 +12,7 @@ Esempi di visualizzazioni di grafi e fenomeni su grafi "non semplici" illustrati
 [🤷‍♀️ Margherita Pindaro](https://github.com/mpindaro)
 
 Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particolare citando
+- Neo4j hands-on
 - Astrazione strutturale
 - Astrazione semantica
 - Astrazione basata su clustering
@@ -21,7 +22,7 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 - Graph Sketches
 
 ## Grafi Bipartiti
-[Filippo Uslenghi](https://github.com/FilippoUslenghi)
+[🧗🏻 Filippo Uslenghi](https://github.com/FilippoUslenghi)
 
 - Definizione di grafo bipartito
 - Reti di affiliazione e modellazione delle reti di affiliazione tramite grafi bipartiti
@@ -47,7 +48,9 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 
 [Abello, James & Finocchi, Irene & Korn, Jeffrey. (2003). Graph Sketches. 10.1109/INFVIS.2001.963282.](https://www.researchgate.net/profile/Irene-Finocchi/publication/2948821_Graph_Sketches/links/0912f50b7b1aa8dae3000000/Graph-Sketches.pdf) 
 
-[Abello, James & Korn, J.. (2002). MGV: A system for visualizing massive multidigraphs. Visualization and Computer Graphics, IEEE Transactions on. 8. 21-38. 10.1109/2945.981849.](https://www.researchgate.net/profile/James-Abello-2/publication/3410947_MGV_A_system_for_visualizing_massive_multidigraphs/links/0deec529f627a79bcc000000/MGV-A-system-for-visualizing-massive-multidigraphs.pdf) 
+[Abello, James & Korn, J.. (2002). MGV: A system for visualizing massive multidigraphs. Visualization and Computer Graphics, IEEE Transactions on. 8. 21-38. 10.1109/2945.981849.](https://www.researchgate.net/profile/James-Abello-2/publication/3410947_MGV_A_system_for_visualizing_massive_multidigraphs/links/0deec529f627a79bcc000000/MGV-A-system-for-visualizing-massive-multidigraphs.pdf)
+
+[Russian trolls went on attack during key election moments](https://www.nbcnews.com/tech/social-media/russian-trolls-went-attack-during-key-election-moments-n827176)
 
 [Goh, K & Cusick, Michael & Valle, David & Childs, Barton & Vidal, Marc & Barabasi, Albert-Laszlo. (2007). The human disease network. Proceedings of the National Academy of Sciences of the United States of America. 104. 8685-90. 10.1073/pnas.0701361104. ](https://www.researchgate.net/publication/6328939_The_human_disease_network)
 
