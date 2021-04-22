@@ -1,7 +1,7 @@
 # Not so simple graph visualization
 Esempi di visualizzazioni di grafi e fenomeni su grafi "non semplici" illustrati per il corso di Visualizzazione Scientifica A.A. 2020-2021
 
-📑 Slide
+[📑 Slide](https://docs.google.com/presentation/d/1LoFBfGotgEi15FwPNSiNnJn0CqWntHbAfULLCDoFOmY/edit?usp=sharing&resourcekey=0-L3nRB8s9bcz5uZik5umXyA)
 ## Information Diffusion
 [🧔 Manuel Dileo](https://github.com/manuel-dileo)
 - Visualizzazione dei pattern di diffusione dei virus su reti telefoniche mediante bluetooth e MMS.
