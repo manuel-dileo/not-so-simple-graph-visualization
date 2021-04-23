@@ -4,6 +4,7 @@ Esempi di visualizzazioni di grafi e fenomeni su grafi "non semplici" illustrati
 [**📑 Slide**](https://docs.google.com/presentation/d/1LoFBfGotgEi15FwPNSiNnJn0CqWntHbAfULLCDoFOmY/edit?usp=sharing&resourcekey=0-L3nRB8s9bcz5uZik5umXyA)
 
 >[📌 Notebook information diffusion](https://github.com/manuel-dileo/not-so-simple-graph-visualization/blob/master/information-diffusion/basic_network_diffusion.ipynb)
+
 >[📌 Neo4j Demo](https://docs.google.com/presentation/d/1zfoEHxodFrcfEcADNPZ96b-2ICBqN0XkgcV-KQRhqBk/edit?usp=sharing)
 
 ## Information Diffusion
