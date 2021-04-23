@@ -1,15 +1,20 @@
 # Not so simple graph visualization
 Esempi di visualizzazioni di grafi e fenomeni su grafi "non semplici" illustrati per il corso di Visualizzazione Scientifica A.A. 2020-2021
 
-[📑 Slide](https://docs.google.com/presentation/d/1LoFBfGotgEi15FwPNSiNnJn0CqWntHbAfULLCDoFOmY/edit?usp=sharing&resourcekey=0-L3nRB8s9bcz5uZik5umXyA)
+[**📑 Slide**](https://docs.google.com/presentation/d/1LoFBfGotgEi15FwPNSiNnJn0CqWntHbAfULLCDoFOmY/edit?usp=sharing&resourcekey=0-L3nRB8s9bcz5uZik5umXyA)
+
+[📌 Notebook information diffusion](https://github.com/manuel-dileo/not-so-simple-graph-visualization/blob/master/information-diffusion/basic_network_diffusion.ipynb)
+
+[📌 Neo4j Demo](https://docs.google.com/presentation/d/1zfoEHxodFrcfEcADNPZ96b-2ICBqN0XkgcV-KQRhqBk/edit?usp=sharing)
+
 ## Information Diffusion
-[🧔 Manuel Dileo](https://github.com/manuel-dileo)
+[🧔🏻🏻 Manuel Dileo](https://github.com/manuel-dileo)
 - Visualizzazione dei pattern di diffusione dei virus su reti telefoniche mediante bluetooth e MMS.
 - Visualizzazione dell'influenza di un autore su reti di collaborazione scientifica.
 - Visualizzazione della diffusione di agenti patogeni con modello SIS.
 
 ## Multidigrafi Eterogenei applicati ai DB
-[🤷‍♀️ Margherita Pindaro](https://github.com/mpindaro)
+[💁🏻 Margherita Pindaro](https://github.com/mpindaro)
 
 Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particolare citando
 - Neo4j hands-on
