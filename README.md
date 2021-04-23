@@ -29,11 +29,9 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 ## Grafi Bipartiti
 [🧗🏻 Filippo Uslenghi](https://github.com/FilippoUslenghi)
 
-- Definizione di grafo bipartito
-- Reti di affiliazione e modellazione delle reti di affiliazione tramite grafi bipartiti
-- Proiezione di una rete bipartita e un caso di studio: The Human Disease Network
 - Visualizzazione di un piccolo grafo bipartito con Networkx
-- Visualizzazione della Human Disease Network con librerie avanzate
+- Visualizzazione della Human Disease Network tramite Hive Plot
+- Visualizzazione di venti patologie oncologiche tramite Sankey Diagram
 
 
 # References
