@@ -8,7 +8,7 @@ Esempi di visualizzazioni di grafi e fenomeni su grafi "non semplici" illustrati
 [📌 Neo4j Demo](https://docs.google.com/presentation/d/1zfoEHxodFrcfEcADNPZ96b-2ICBqN0XkgcV-KQRhqBk/edit?usp=sharing)
 
 ## Information Diffusion
-[🧔🏻‍♂️🏻🏻 Manuel Dileo](https://github.com/manuel-dileo)
+[🧔🏻🏻 Manuel Dileo](https://github.com/manuel-dileo)
 - Visualizzazione dei pattern di diffusione dei virus su reti telefoniche mediante bluetooth e MMS.
 - Visualizzazione dell'influenza di un autore su reti di collaborazione scientifica.
 - Visualizzazione della diffusione di agenti patogeni con modello SIS.
