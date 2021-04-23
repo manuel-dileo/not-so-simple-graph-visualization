@@ -34,7 +34,7 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 - Visualizzazione dei geni in comume tra alcune patologie oncologiche tramite Sankey Diagram
 
 ## Multigrafi
-[:) Matteo Cucchi](https://github.com/matteocucchi)
+[🏃🏻‍♂️ Matteo Cucchi](https://github.com/matteocucchi)
 
 - Visualizzazione di un multigrafo di grandi dimensioni in Gephi
 - Visualizzazione multilayer di un multigrafo usando la libreria Py3plex
