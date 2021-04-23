@@ -30,8 +30,8 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 [🧗🏻 Filippo Uslenghi](https://github.com/FilippoUslenghi)
 
 - Visualizzazione di un piccolo grafo bipartito con Networkx
-- Visualizzazione della Human Disease Network tramite Hive Plot
-- Visualizzazione di venti patologie oncologiche tramite Sankey Diagram
+- Visualizzazione di una Human Disease Network tramite Hive Plot
+- Visualizzazione dei geni in comume tra alcune patologie oncologiche tramite Sankey Diagram
 
 
 # References
