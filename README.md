@@ -33,6 +33,12 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 - Visualizzazione di una Human Disease Network tramite Hive Plot
 - Visualizzazione dei geni in comume tra alcune patologie oncologiche tramite Sankey Diagram
 
+## Multigrafi
+[:) Matteo Cucchi](https://github.com/matteocucchi)
+
+- Visualizzazione di un multigrafo di grandi dimensioni in Gephi
+- Visualizzazione multilayer di un multigrafo usando la libreria Py3plex
+
 
 # References
 [Aric A. Hagberg, Daniel A. Schult and Pieter J. Swart, “Exploring network structure, dynamics, and function using NetworkX”, in Proceedings of the 7th Python in Science Conference (SciPy2008), Gäel Varoquaux, Travis Vaught, and Jarrod Millman (Eds), (Pasadena, CA USA), pp. 11–15, Aug 2008](https://networkx.org/documentation/latest/index.html)
@@ -62,6 +68,9 @@ Overview sulle tipologie di astrazioni  sui multidigrafi eterogenei, in particol
 
 [Krzywinski, Martin & Birol, Inanc & Jones, Steven & Marra, Marco. (2011). Hive plots—Rational approach to visualizing networks. Briefings in bioinformatics. 13. 627-44. 10.1093/bib/bbr069.](https://www.researchgate.net/publication/51865841_Hive_plots-Rational_approach_to_visualizing_networks)
 
+[Škrlj, Blaž & Kralj, Jan & Lavrac, Nada. (2019). Py3plex toolkit for visualization and analysis of multilayer networks. Applied Network Science. 4. 10.1007/s41109-019-0203-7.](https://www.researchgate.net/publication/336908543_Py3plex_toolkit_for_visualization_and_analysis_of_multilayer_networks)
+
+[Bastian, Mathieu & Heymann, Sebastien & Jacomy, Mathieu. (2009). Gephi: An Open Source Software for Exploring and Manipulating Networks. 10.13140/2.1.1341.1520.](https://www.researchgate.net/publication/221297890_Gephi_An_Open_Source_Software_for_Exploring_and_Manipulating_Networks)
 
 
 
