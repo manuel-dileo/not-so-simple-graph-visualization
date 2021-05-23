@@ -7,7 +7,7 @@ Esempi di visualizzazioni di grafi e fenomeni su grafi "non semplici" illustrati
 >
 >[📌 Notebook information diffusion](https://github.com/manuel-dileo/not-so-simple-graph-visualization/blob/master/information-diffusion/basic_network_diffusion.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuel-dileo/not-so-simple-graph-visualization/blob/master/information-diffusion/basic_network_diffusion.ipynb)
 >
->[📌 Notebook bipartite graph](https://github.com/manuel-dileo/not-so-simple-graph-visualization/blob/master/bipartite_graphs/bipartite_graphs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuel-dileo/not-so-simple-graph-visualization/blob/master/bipartite_graphs/bipartite_graphs.ipynb)
+>[📌 Notebook bipartite graph](https://github.com/manuel-dileo/not-so-simple-graph-visualization/blob/master/bipartite-graphs/bipartite_graphs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuel-dileo/not-so-simple-graph-visualization/blob/master/bipartite-graphs/bipartite_graphs.ipynb)
 >
 >[📌 Notebook multigraph](https://github.com/manuel-dileo/not-so-simple-graph-visualization/blob/master/multigraph/MultilayerVisualizationPy3plex.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manuel-dileo/not-so-simple-graph-visualization/blob/master/multigraph/MultilayerVisualizationPy3plex.ipynb)
 
